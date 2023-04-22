@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **DE Online Food Delivery**
 
-- 🌱 I’m currently learning **Nodejs, Expresssjs and various technical skillskills.**
+- 🌱 I’m currently learning **Nodejs, Expresssjs and various technical skills.**
 
 - 👨‍💻 All of my projects are available at [https://tpnrajput.github.io/Portfolio/](https://tpnrajput.github.io/Portfolio/)
 
