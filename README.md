@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **DE Online Food Delivery**
 
-- 🌱 I’m currently learning **Js, React Js and various technical skills.**
+- 🌱 I’m currently learning **Node, Express Js and various technical skills.**
 
-- 📫 How to reach me **jadavtapan@outlook.com**
+- 📫 How to reach me **tpnjadav@gmail.com**
 
 - ⚡ Fun fact **I am funny.**
 
