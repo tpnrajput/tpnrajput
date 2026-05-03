@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jadav Tapan</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate developer from Gujarat.</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tpnrajput&label=Profile%20views&color=0e75b6&style=flat" alt="tpnrajput" /> </p>
 
-- 🔭 I’m currently working on **DE Online Food Delivery**
-
-- 🌱 I’m currently learning **Nodejs, Expresssjs and various technical skills.**
-
-- 👨‍💻 All of my projects are available at [https://tpnrajput.github.io/Portfolio/](https://tpnrajput.github.io/Portfolio/)
+- 🔭 I’m currently learning deep about Server Management, AWS and Exploring various AI tools.
 
 - 📫 How to reach me **tpnjadav@gmail.com**
-
-- ⚡ Fun fact **I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
